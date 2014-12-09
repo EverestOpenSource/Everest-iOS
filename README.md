@@ -24,7 +24,7 @@ $ pod install
 
 ### Fonts
 
-Everest uses Proxima Nove and Trump fonts internally, but these are not open license fonts so unfortunately they could not be added to the Github repo.
+Everest uses Proxima Nova and Trump fonts internally, but these are not open license fonts so unfortunately they could not be added to the Github repo.
 
 Feel free to fork this repo and replace them with your own fonts or if you happen to have these fonts on your local machine, just put the required font files into a directory like so:
 
@@ -72,3 +72,10 @@ See the `LICENSE` file for more details.
 ## Thank You ##
 
 A HUGE thank you to all of the open source software that came before us that allowed us to move quickly and test theories rather than building boilerplate all day.
+
+## Team ##
+
+Credits for this code base:
+
+* Rob Phillips: [https://www.linkedin.com/in/iwasrobbed](https://www.linkedin.com/in/iwasrobbed)
+* Chris Cornelis: [https://www.linkedin.com/in/ccornelis](https://www.linkedin.com/in/ccornelis)
