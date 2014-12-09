@@ -1,0 +1,54 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+#include <tgmath.h>
+
+// Logging Macros
+#if (DEBUG)
+  #define DLog(...) CLS_LOG(@"%@", [NSString stringWithFormat:__VA_ARGS__])
+  #define ALog(...) {CLS_LOG(@"%@", [NSString stringWithFormat:__VA_ARGS__]);[[NSAssertionHandler currentHandler] handleFailureInFunction:[NSString stringWithCString:__PRETTY_FUNCTION__ encoding:NSUTF8StringEncoding] file:[NSString stringWithCString:__FILE__ encoding:NSUTF8StringEncoding] lineNumber:__LINE__ description:__VA_ARGS__];}
+#else
+  #define DLog(...) CLS_LOG(@"%@", [NSString stringWithFormat:__VA_ARGS__])
+  #ifndef NS_BLOCK_ASSERTIONS
+    #define NS_BLOCK_ASSERTIONS
+  #endif
+  #define ALog(...) CLS_LOG(@"%@", [NSString stringWithFormat:__VA_ARGS__])
+#endif
+
+#define ZAssert(condition, ...) do { if (!(condition)) { ALog(__VA_ARGS__); }} while(0)
+
+// Apple Framework Modules
+@import UIKit;
+@import Foundation;
+@import CoreText;
+@import CoreData;
+@import QuartzCore;
+@import SystemConfiguration;
+@import MobileCoreServices;
+
+// 3rd Party
+#import <Crashlytics/Crashlytics.h>
+
+// Global Imports
+#import "EvstAppDelegate.h"
+#import "EvstConstants.h"
+#import "EvstAPIClient.h"
+#import "EvstFacebook.h"
+#import "EvstTwitter.h"
+#import "SVProgressHUD.h"
+#import "SVProgressHUD+EvstAdditions.h"
+#import "UIViewController+EvstAdditions.h"
+#import "EvstGrayNavigationController.h"
+#import "EvstCommon.h"
+#import "SVPullToRefresh.h"
+#import "UITableView+BatchUpdates.h"
+#import "EvstAnalytics.h"
+#import <SDWebImage/UIImageView+WebCache.h>
+
+// Masonry for AutoLayout
+#define MAS_SHORTHAND
+#import "Masonry.h"

@@ -1,0 +1,158 @@
+PODS:
+  - AFNetworking (1.3.3)
+  - AFOAuth1Client (0.3.3):
+    - AFNetworking (~> 1.3)
+  - Bolts (1.1.3)
+  - DACircularProgress (2.2.0)
+  - DZNPhotoPickerController (1.2.2):
+    - AFNetworking (~> 1.3.3)
+    - SDWebImage (~> 3.4)
+  - ECSlidingViewController (2.0.1)
+  - Facebook-iOS-SDK (3.16.2):
+    - Bolts
+  - ios-image-editor (1.1.3)
+  - ISO8601DateFormatterValueTransformer (0.5.0):
+    - RKValueTransformers (~> 1.0.0)
+  - JDStatusBarNotification (1.4.8)
+  - KIF (3.0.8):
+    - KIF/XCTest (= 3.0.8)
+  - KIF/XCTest (3.0.8)
+  - Masonry (0.5.3)
+  - Mixpanel (2.4.0)
+  - OHHTTPStubs (3.1.2)
+  - PBWebViewController (0.2)
+  - Reachability (3.1.1)
+  - RestKit (0.22.0):
+    - RestKit/Core (= 0.22.0)
+  - RestKit/Core (0.22.0):
+    - RestKit/CoreData
+    - RestKit/Network
+    - RestKit/ObjectMapping
+  - RestKit/CoreData (0.22.0)
+  - RestKit/Network (0.22.0):
+    - AFNetworking (~> 1.3.0)
+    - RestKit/ObjectMapping
+    - RestKit/Support
+    - SOCKit
+  - RestKit/ObjectMapping (0.22.0):
+    - ISO8601DateFormatterValueTransformer (~> 0.5.0)
+    - RestKit/Support
+    - RKValueTransformers (~> 1.0.1)
+  - RestKit/Support (0.22.0):
+    - TransitionKit (= 2.0.0)
+  - RKValueTransformers (1.0.1)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core (= 3.7.1)
+  - SDWebImage/Core (3.7.1)
+  - SOCKit (1.1)
+  - SSKeychain (1.2.2)
+  - SVProgressHUD (0.9)
+  - SVPullToRefresh (0.4.2)
+  - SwipeView (1.3.2)
+  - TransitionKit (2.0.0)
+  - TTTAttributedLabel (1.10.1)
+  - uservoice-iphone-sdk (3.1.0)
+  - VTAcknowledgementsViewController (0.10)
+
+DEPENDENCIES:
+  - AFNetworking (from `git@github.com:EverestOpenSource/AFNetworking.git`, branch `1.3.3-everest`)
+  - AFOAuth1Client (~> 0.3.3)
+  - DACircularProgress (~> 2.2.0)
+  - DZNPhotoPickerController (from `git@github.com:EverestOpenSource/DZNPhotoPickerController.git`)
+  - ECSlidingViewController (from `git@github.com:EverestOpenSource/ECSlidingViewController.git`)
+  - Facebook-iOS-SDK (~> 3.16.0)
+  - ios-image-editor (from `git@github.com:EverestOpenSource/ios-image-editor.git`)
+  - JDStatusBarNotification (~> 1.4.8)
+  - KIF (~> 3.0.8)
+  - Masonry (~> 0.5.3)
+  - Mixpanel (~> 2.3)
+  - OHHTTPStubs
+  - PBWebViewController (~> 0.1)
+  - Reachability (~> 3.1.1)
+  - RestKit (~> 0.22.0)
+  - SDWebImage (~> 3.6)
+  - SSKeychain (~> 1.2.1)
+  - SVProgressHUD (from `git@github.com:EverestOpenSource/SVProgressHUD.git`)
+  - SVPullToRefresh (from `git@github.com:EverestOpenSource/SVPullToRefresh.git`)
+  - SwipeView (~> 1.3)
+  - TTTAttributedLabel (from `git@github.com:EverestOpenSource/TTTAttributedLabel.git`, branch `everest`)
+  - uservoice-iphone-sdk (~> 3.0)
+  - VTAcknowledgementsViewController (from `git@github.com:EverestOpenSource/VTAcknowledgementsViewController.git`)
+
+EXTERNAL SOURCES:
+  AFNetworking:
+    :branch: 1.3.3-everest
+    :git: git@github.com:EverestOpenSource/AFNetworking.git
+  DZNPhotoPickerController:
+    :git: git@github.com:EverestOpenSource/DZNPhotoPickerController.git
+  ECSlidingViewController:
+    :git: git@github.com:EverestOpenSource/ECSlidingViewController.git
+  ios-image-editor:
+    :git: git@github.com:EverestOpenSource/ios-image-editor.git
+  SVProgressHUD:
+    :git: git@github.com:EverestOpenSource/SVProgressHUD.git
+  SVPullToRefresh:
+    :git: git@github.com:EverestOpenSource/SVPullToRefresh.git
+  TTTAttributedLabel:
+    :branch: everest
+    :git: git@github.com:EverestOpenSource/TTTAttributedLabel.git
+  VTAcknowledgementsViewController:
+    :git: git@github.com:EverestOpenSource/VTAcknowledgementsViewController.git
+
+CHECKOUT OPTIONS:
+  AFNetworking:
+    :commit: 399073f84470db6c678f725fdb12f3535c580d9a
+    :git: git@github.com:EverestOpenSource/AFNetworking.git
+  DZNPhotoPickerController:
+    :commit: 5c9c83d71342f1197817b9db1558ee1e540133cf
+    :git: git@github.com:EverestOpenSource/DZNPhotoPickerController.git
+  ECSlidingViewController:
+    :commit: d851d7e7f928de462a96fc5382dd2c9ce0cc45d4
+    :git: git@github.com:EverestOpenSource/ECSlidingViewController.git
+  ios-image-editor:
+    :commit: de9616a7bccf7ab3b559d7fdb407598b43a75a74
+    :git: git@github.com:EverestOpenSource/ios-image-editor.git
+  SVProgressHUD:
+    :commit: 69ab335cd075a1247a685175c01e08bfa1dcff09
+    :git: git@github.com:EverestOpenSource/SVProgressHUD.git
+  SVPullToRefresh:
+    :commit: 816317c26d3fe7cc0c5af4bcb1f3b66151982db1
+    :git: git@github.com:EverestOpenSource/SVPullToRefresh.git
+  TTTAttributedLabel:
+    :commit: 7f8fc3013ea870e555be12c95030f2811d1e1ba7
+    :git: git@github.com:EverestOpenSource/TTTAttributedLabel.git
+  VTAcknowledgementsViewController:
+    :commit: c4d6c8094fb94dc68ed0669fc768af2e5dbb5853
+    :git: git@github.com:EverestOpenSource/VTAcknowledgementsViewController.git
+
+SPEC CHECKSUMS:
+  AFNetworking: 2296b05928ffd402227205fb6f1e5a94c1f03a73
+  AFOAuth1Client: 53c76d9cadd73142a9f73854456d5d970bdc147a
+  Bolts: 3db0a875235e0c9042b013af13af0f00f79b102c
+  DACircularProgress: 3b41941891a56dc6aa17971f5322a9a38a6f446e
+  DZNPhotoPickerController: 0a5988153b3baa888bcce00863f0f350674d6303
+  ECSlidingViewController: d7bb96ee5bbe261ed80ee16a513f94b9fd3c9767
+  Facebook-iOS-SDK: 34eef640c2cc4c8618ba0f574ad2b290e07f1b4e
+  ios-image-editor: 0843c38626e2718c5fc56656c63b5ce90df2b2e9
+  ISO8601DateFormatterValueTransformer: a7e1ecf4380d0b561306ced1a3f01bd5f65d2213
+  JDStatusBarNotification: c68611370dedc0ef865fb0fc1768dfbaf8fd961f
+  KIF: 2db5e8cf59136dd1267d49cca0d55883389b09d3
+  Masonry: 35368c2ca9577ca87722c12fc52c4bad9b1c1516
+  Mixpanel: 8cdf6fc831ae1f7515f0d8164dcc381990e0a23a
+  OHHTTPStubs: c1c2007839687eaf9b80f061ce84440515080ebb
+  PBWebViewController: 4ce33129c0f0adfce9cec105be4d48c7c9b70026
+  Reachability: 8e9635e3cb4f98e7f825e51147f677ecc694d0e7
+  RestKit: 6b82f862848cbe026ddc297985aa9a766b7e1a38
+  RKValueTransformers: 994503e34bffdbe0159ff6b497290dd1f8d5657f
+  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
+  SOCKit: d8d0dd3688ae1026c12367570da8fa8e1a6980fb
+  SSKeychain: cc48bd3ad24fcd9125adb9e0d23dd50b8bbd08b9
+  SVProgressHUD: 98935fbafaf0031df4a9cafca3c66eaf3da06967
+  SVPullToRefresh: 849af3bec0ca220a00948b3cad623fe53dee3229
+  SwipeView: 0093c212acf3d715b09334c50d568a4418404150
+  TransitionKit: 7877021649a734f3239ed176b7967de29321dcf3
+  TTTAttributedLabel: 1bcf9fc9247a553ec916b3645dac298a30df9484
+  uservoice-iphone-sdk: 36286c4a8de16a1e7e87110de6b2270fe9a31a36
+  VTAcknowledgementsViewController: 76b8edcea89b58b7be15876aaa5aba7fa8b221d7
+
+COCOAPODS: 0.35.0

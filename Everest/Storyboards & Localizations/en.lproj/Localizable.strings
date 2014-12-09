@@ -1,0 +1,320 @@
+/* 
+  Localizable.strings
+  Everest
+
+  Created by Chris Cornelis on 01/17/14.
+  Copyright (c) 2014 Everest, Inc. All rights reserved. See LICENCE for more information.
+*/
+
+// EvstLocalizedCommon.h
+"Confirm" = "Confirm";
+"Search" = "Search";
+"Search Bar" = "Search Bar";
+"Back" = "Back";
+"OK" = "OK";
+"Info" = "Info";
+"Error" = "Error";
+"Done" = "Done";
+"None" = "None";
+"Cancel" = "Cancel";
+"Add" = "Add";
+"Edit" = "Edit";
+"Delete" = "Delete";
+"Post" = "Post";
+"Save" = "Save";
+"Send" = "Send";
+"Take photo" = "Take photo";
+"Choose existing" = "Choose existing";
+"Share to Facebook" = "Share to Facebook";
+"Share to Twitter" = "Share to Twitter";
+"Copy Link" = "Copy Link";
+"Big Add Moment Button" = "Big Add Moment Button";
+"Options" = "Options";
+"Copied!" = "Copied!";
+
+"Search Moments" = "Search Moments";
+"Search users" = "Search users";
+"Search internet photos" = "Search internet photos";
+
+"Photo search results" = "Photo search results";
+"Photo editor" = "Photo editor";
+
+"There are no email accounts setup on this device.  Please open your device settings and set one up first." = "There are no email accounts setup on this device.  Please open your device settings and set one up first.";
+"There was an error sending your email" = "There was an error sending your email";
+"No Internet Connection" = "No Internet Connection";
+
+"%d years" = "%d years";
+"%d year" = "%d year";
+"%d months" = "%d months";
+"%d month" = "%d month";
+"%d weeks" = "%d weeks";
+"%d week" = "%d week";
+"%d days" = "%d days";
+"%d day" = "%d day";
+"%d minutes" = "%d minutes";
+"%d minute" = "%d minute";
+"%d hours" = "%d hours";
+"%d hour" = "%d hour";
+"%d seconds" = "%d seconds";
+"%d second" = "%d second";
+"%dw" = "%dw";
+"%dd" = "%dd";
+"%dm" = "%dm";
+"%dh" = "%dh";
+"%ds" = "%ds";
+"ago" = "ago";
+
+// EvstLocalizedWelcome.h
+"Welcome" = "Welcome";
+"Welcome video" = "Welcome video";
+"Sign in with Facebook" = "Sign in with Facebook";
+"Sign up with Email" = "Sign up with Email";
+"Login" = "Login";
+"ONE LIFE. MANY JOURNEYS." = "ONE LIFE. MANY JOURNEYS.";
+
+"Log In" = "Log In";
+"Email" = "Email";
+"Password" = "Password";
+"Password (at least six characters)" = "Password (at least six characters)";
+"Forgot your password?" = "Forgot your password?";
+"Sign up" = "Sign up";
+"First name" = "First name";
+"Last name" = "Last name";
+"Tap to upload profile photo" = "Tap to upload profile photo";
+"Profile picture" = "Profile picture";
+"Choose a Picture" = "Choose a Picture";
+"For your friends to find you more easily on Everest, choose a picture of yourself." = "For your friends to find you more easily on Everest, choose a picture of yourself.";
+"No thanks" = "No thanks";
+"Set Picture" = "Set Picture";
+"For your friends to be able to find you easier on Everest, please select your gender." = "For your friends to be able to find you easier on Everest, please select your gender.";
+"Female" = "Female";
+"Male" = "Male";
+"I'd rather not say" = "I'd rather not say";
+"By tapping “%@” you are indicating that you have read & agree to the %@ & %@" = "By tapping “%1$@” you are indicating that you have read & agree to the %2$@ & %3$@";
+"Privacy Policy" = "Privacy Policy";
+"Terms of Service" = "Terms of Service";
+
+"Value proposition" = "Value proposition";
+"Value proposition image" = "Value proposition image";
+"or Skip" = "or Skip";
+"YOUR LIFE IS MADE UP" = "YOUR LIFE IS MADE UP";
+"OF MANY JOURNEYS." = "OF MANY JOURNEYS.";
+"Everest is where you capture, share" = "Everest is where you capture, share";
+"and plan Moments along the way." = "and plan Moments along the way.";
+"Swipe to see how" = "Swipe to see how";
+
+"You left something blank. Please complete all fields." = "You left something blank. Please complete all fields.";
+"Your password must be at least 6 characters" = "Your password must be at least 6 characters";
+
+// EvstLocalizedSocialSharing.h
+"Authorizing..." = "Authorizing...";
+"Linking..." = "Linking...";
+"Unlinking..." = "Unlinking...";
+"Choose account" = "Choose account";
+"Which account would you like to use to share your Everest activity?" = "Which account would you like to use to share your Everest activity?";
+"Cannot access Facebook accounts" = "Cannot access Facebook accounts";
+"To use your Facebook account with this app, launch the Settings app -> Facebook and make sure this app is turned on." = "To use your Facebook account with this app, launch the Settings app -> Facebook and make sure this app is turned on.";
+"Your current Facebook session is no longer valid. Please try again." = "Your current Facebook session is no longer valid. Please try again.";
+"There was an error authenticating with Facebook (their service might be down or you cancelled).  Please try again later." = "There was an error authenticating with Facebook (their service might be down or you cancelled).  Please try again later.";
+"Please retry.\n\nIf the problem persists, please contact us and mention this Facebook error code: %@" = "Please retry.\n\nIf the problem persists, please contact us and mention this Facebook error code: %@";
+"Error occurred while linking your Facebook account to Everest" = "Error occurred while linking your Facebook account to Everest";
+"I'd like to share my Journeys and goals with you. See my Journey on Everest." = "I'd like to share my Journeys and goals with you. See my Journey on Everest.";
+"You have not linked your Twitter account." = "You have not linked your Twitter account.";
+"The account you authorized on Twitter (@%@) does not match the account you originally chose to link with (@%@)." = "The account you authorized on Twitter (@%@) does not match the account you originally chose to link with (@%@).";
+"There was an error authenticating with Twitter (their service might be down or you cancelled).  Please try again later." = "There was an error authenticating with Twitter (their service might be down or you cancelled).  Please try again later.";
+"To use your Twitter account with this app, launch the Settings app -> Twitter and make sure this app is turned on." = "To use your Twitter account with this app, launch the Settings app -> Twitter and make sure this app is turned on.";
+
+// EvstLocalizedSettings.h
+"Settings" = "Settings";
+"Acknowledgements" = "Acknowledgements";
+"Settings View" = "Settings View";
+"Account Preferences" = "Account Preferences";
+"Discover Language" = "Discover Language";
+"Notifications" = "Notifications";
+"Social Sharing" = "Social Sharing";
+"Find Your Friends" = "Find Your Friends";
+"Need help? Get support!" = "Need help? Get support!";
+"Send us Feedback" = "Send us Feedback";
+"Shoutouts & Legal Stuff" = "Shoutouts & Legal Stuff";
+"EVEREST V%@ BUILT FOR YOU FROM" = "EVEREST V%@ BUILT FOR YOU FROM";
+"Change profile photo" = "Change profile photo";
+"Push notifications" = "Push notifications";
+"Logout" = "Logout";
+"Version %@" = "Version %@";
+"Notifications Settings View" = "Notifications Settings View";
+"Likes my Moment" = "Likes my Moment";
+"Likes my Moment phone" = "Likes my Moment phone";
+"Likes my Moment email" = "Likes my Moment email";
+"Comments on my Moment" = "Comments on my Moment";
+"Comments on my Moment phone" = "Comments on my Moment phone";
+"Comments on my Moment email" = "Comments on my Moment email";
+"Follows me" = "Follows me";
+"Follows me phone" = "Follows me phone";
+"Follows me email" = "Follows me email";
+"Friend posts Milestone" = "Friend posts Milestone";
+"Friend posts Milestone phone" = "Friend posts Milestone phone";
+"Friend posts Milestone email" = "Friend posts Milestone email";
+"You cannot enable any phone notifications because they are disabled for the Everest app. Open the Settings app to enable them first." = "You cannot enable any phone notifications because they are disabled for the Everest app. Open the Settings app to enable them first.";
+"Social Sharing Settings View" = "Social Sharing Settings View";
+"Legal Settings View" = "Legal Settings View";
+"Shoutouts" = "Shoutouts";
+"Attribution" = "Attribution";
+"Icons designed by\nPhotos by\nIcons designed by\nPhotos by\n" = "Icons designed by\nPhotos by\nIcons designed by\nPhotos by\n";
+"Legal Stuff" = "Legal Stuff";
+"Terms & Conditions" = "Terms & Conditions";
+"Lorem ipsum dolor\nLorem ipsum dolor\nLorem ipsum dolor\nLorem ipsum dolor\n" = "Lorem ipsum dolor\nLorem ipsum dolor\nLorem ipsum dolor\nLorem ipsum dolor\n";
+"iPhone App Need Help (%@)" = "iPhone App Need Help (%@)";
+"iPhone App Feedback (%@)" = "iPhone App Feedback (%@)";
+"Choosing a language below will only show content on the Discover page from other users who have posted using that language." = "Choosing a language below will only show content on the Discover page from other users who have posted using that language.";
+"Refreshing for language change" = "Refreshing for language change";
+
+// EvstLocalizedMenu.h
+"Menu" = "Menu";
+"Menu View" = "Menu View";
+"User Header Area" = "User Header Area";
+"View Profile" = "View Profile";
+"Home" = "Home";
+"Journeys" = "Journeys";
+"Discover" = "Discover";
+"Start a new Journey" = "Start a new Journey";
+
+// EvstLocalizedUsers.h
+"Profile" = "Profile";
+"User Profile" = "User Profile";
+"User Profile Table" = "User Profile Table";
+"User Cover Picture" = "User Cover Picture";
+"Me" = "Me";
+"Follow" = "Follow";
+"Unfollow" = "Unfollow";
+"Following" = "Following";
+"Following count" = "Following count";
+"Following Table" = "Following Table";
+"Followers" = "Followers";
+"Followers count" = "Followers count";
+"Followers Table" = "Followers Table";
+"User Search Table" = "User Search Table";
+"Edit Profile" = "Edit Profile";
+"Edit cover photo" = "Edit cover photo";
+"Edit profile photo" = "Edit profile photo";
+"Recent Moments" = "Recent Moments";
+"Name" = "Name";
+"Gender" = "Gender";
+"Web" = "Web";
+"Change Password" = "Change Password";
+"Current" = "Current";
+"Current password" = "Current password";
+"New" = "New";
+"New password" = "New password";
+"Confirm" = "Confirm";
+"New password, again" = "New password, again";
+"Your password confirmation does not match the new password" = "Your password confirmation does not match the new password";
+"Tap to find your friends\nand discover new ones!" = "Tap to find your friends\nand discover new ones!";
+
+// EvstLocalizedJourneys.h
+"Journey Options" = "Journey Options";
+"Start" = "Start";
+"Delete Journey" = "Delete Journey";
+"Edit Journey" = "Edit Journey";
+"Accomplish Journey" = "Accomplish Journey";
+"Reopen Journey" = "Reopen Journey";
+"Journey" = "Journey";
+"New Journey" = "New Journey";
+"Journeys Table" = "Journeys Table";
+"Journey name" = "Journey name";
+"Journey Table" = "Journey Table";
+"Journey Cover List Table" = "Journey Cover List Table";
+"Select Journey" = "Select Journey";
+"Journey List Table" = "Journey List Table";
+"Journey Cover Photo" = "Journey Cover Photo";
+"Black Gradient" = "Black Gradient";
+"Journey Cover Banner" = "Journey Cover Banner";
+"Chevron Symbol" = "Chevron Symbol";
+"EVEREST" = "EVEREST";
+"ACCOMPLISHED" = "ACCOMPLISHED";
+"%d Moments" = "%d Moments";
+"%d Moment" = "%d Moment";
+"%d Moments" = "%d Moments";
+"%d Days" = "%d Days";
+"Sort Journeys" = "Sort Journeys";
+"Please type in a name for this Journey" = "Please type in a name for this Journey";
+"You don't have any Journeys!" = "You don't have any Journeys!";
+"But don't worry, simply tap above to start a new one." = "But don't worry, simply tap above to start a new one.";
+"You don't have any Journeys yet.\nBut don't fret, we can help you get started" = "You don't have any Journeys yet.\nBut don't fret, we can help you get started";
+"Tap here to start your first Journey" = "Tap here to start your first Journey";
+"Private" = "Private";
+"Set Journey privacy" = "Set Journey privacy";
+"Private Journey\n(Only visible to you)" = "Private Journey\n(Only visible to you)";
+"Public Journey\n(Visible to the community)" = "Public Journey\n(Visible to the community)";
+"What do you want to do?" = "What do you want to do?";
+"Set cover photo" = "Set cover photo";
+"Set Photo" = "Set Photo";
+"Every Journey should have a beautiful cover photo.  Want to set one real quick?" = "Every Journey should have a beautiful cover photo.  Want to set one real quick?";
+"Choose a Cover" = "Choose a Cover";
+"Are you sure you want to delete this Journey? This will also delete all Moments within it and cannot be undone." = "Are you sure you want to delete this Journey? This will also delete all Moments within it and cannot be undone.";
+
+// EvstLocalizedComments.h
+"Comment" = "Comment";
+"Comments" = "Comments";
+"Comments Table" = "Comments Table";
+"New Comment Text Field" = "New Comment Text Field";
+"Add a comment..." = "Add a comment...";
+
+// EvstLocalizedMoments.h
+"Moment Options" = "Moment Options";
+"in" = "in";
+"Moment" = "Moment";
+"Edit Moment" = "Edit Moment";
+"Delete Moment" = "Delete Moment";
+"Moment name" = "Moment name";
+"Add for later..." = "Add for later...";
+"Step" = "Step";
+"Post Moment" = "Post Moment";
+"Start your first Journey" = "Start your first Journey";
+"Select Journey" = "Select Journey";
+"What did you do..." = "What did you do...";
+"Post Moment as:" = "Post Moment as:";
+"Importance" = "Importance";
+"Minor" = "Minor";
+"Normal" = "Normal";
+"Milestone" = "Milestone";
+"This Moment will not be shared" = "This Moment will not be shared";
+"This Moment will be shared with everyone who follows you" = "This Moment will be shared with everyone who follows you";
+"This Moment will be shared with everyone who follows you" = "This Moment will be shared with everyone who follows you";
+"Moment profile picture" = "Moment profile picture";
+"Moment photo" = "Moment photo";
+"Minor Moment photo" = "Minor Moment photo";
+"Remove photo" = "Remove photo";
+"Select photo" = "Select photo";
+"Date picker" = "Date picker";
+"Select date" = "Select date";
+"Moments" = "Moments";
+"Moments count" = "Moments count";
+"Moment Form Scroll View" = "Moment Form Scroll View";
+"Background View" = "Background View";
+"Moment Table" = "Moment Table";
+"Moment Table Cell" = "Moment Table Cell";
+"Are you sure you want to delete this Moment?" = "Are you sure you want to delete this Moment?";
+"Like" = "Like";
+"Unlike" = "Unlike";
+"Like from toolbar" = "Like from toolbar";
+"Like count" = "Like count";
+"First liker photo" = "First liker photo";
+"Second liker photo" = "Second liker photo";
+"Third liker photo" = "Third liker photo";
+"Throwback" = "Throwback";
+"Please select a Journey for this Moment" = "Please select a Journey for this Moment";
+"Please type in a name for this Moment or select a photo" = "Please type in a name for this Moment or select a photo";
+"Power tip!\n\nShare past Moments with the throwback button." = "Power tip!\n\nShare past Moments with the throwback button.";
+"Successfully Deleted" = "Successfully Deleted";
+"Pull to refresh to hide" = "Pull to refresh to hide";
+"No Moments? No problem!" = "No Moments? No problem!";
+"Share what you have been working on!" = "Share what you have been working on!";
+"Spotlighted by logo" = "Spotlighted by logo";
+"Editor's Pick" = "Editor's Pick";
+"spotlighted by" = "spotlighted by";
+"%@ %@ the Journey:" = "%@ %@ the Journey:";
+"Find it on the web at:" = "Find it on the web at:";
+
+// EvstLocalizedNotifications.h
+"No notifications—yet!" = "No notifications—yet!";
+
