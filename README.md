@@ -2,7 +2,15 @@
 
 Everest was an app for documenting your life through journeys and individual moments within each journey. We decided to open source the iOS client in order to let others learn from our work rather than just abandoning it forever in a new Swift world.
 
-We stopped work on the app around June 2014 so there are probably a lot of iOS 8 related UI bugs that need ironing out.
+We stopped work on the app around June 2014 so there are probably a lot of iOS 8+ related UI bugs that need ironing out.
+
+## UI
+
+<img src="http://i.imgur.com/Q3c9VJ0.png" width="200">
+<img src="http://i.imgur.com/IeEwiCe.png" width="200">
+<img src="http://i.imgur.com/1ZHFx6s.png" width="200">
+<img src="http://i.imgur.com/ZyTC2eD.png" width="200">
+<img src="http://i.imgur.com/AKZpfc1.png" width="200">
 
 ## Setup
 
